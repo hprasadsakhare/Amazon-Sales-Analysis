@@ -9,7 +9,7 @@ A comprehensive business intelligence solution that transforms Amazon sales data
 - <a href="https://github.com/hprasadsakhare/Amazon-Sales-Analysis/blob/main/Amazon_Combined_Data.xlsx">Amazon Sales Data </a>
 
 ## Dashboard Interaction
-- <a https://github.com/hprasadsakhare/Amazon-Sales-Analysis/blob/main/Dashboard.jpeg" > Dashboard </a>
+- <a href="https://github.com/hprasadsakhare/Amazon-Sales-Analysis/blob/main/Dashboard.jpeg" > Dashboard </a>
 
 
 ## Project Objectives
