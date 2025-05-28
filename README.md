@@ -1,5 +1,7 @@
 # Amazon Sales Analytics Dashboard
 
+![Image](https://github.com/user-attachments/assets/083d115a-7511-41a3-ab8b-55b1b1277640)
+
 ## Executive Summary
 A comprehensive business intelligence solution that transforms Amazon sales data into actionable insights through interactive visualizations and key performance indicators. This project demonstrates expertise in data analytics, visualization, and business intelligence while providing valuable insights for strategic decision-making.
 
