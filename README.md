@@ -10,6 +10,32 @@ Developed a comprehensive business intelligence dashboard that transforms raw Am
 **Dataset:** [Amazon Sales Data](https://github.com/hprasadsakhare/Amazon-Sales-Analysis/blob/main/Amazon_Combined_Data.xlsx)
 
 ---
+### Key Performance Indicators (KPIs)
+1. **Sales Performance Metrics**
+   - YTD Sales: Comprehensive revenue tracking and analysis
+   - QTD Sales: Quarterly performance monitoring and trend analysis
+   - YTD Products Sold: Total product movement and inventory analysis
+
+2. **Customer Satisfaction Metrics**
+   - YTD Reviews: Product feedback and satisfaction analysis
+   - Customer Rating Trends: Performance tracking and improvement areas
+
+### Advanced Analytics Dashboard
+
+#### Time-Series Analysis
+1. **Monthly Sales Trends**
+   - Interactive line chart visualization
+   - Seasonal pattern identification
+   - Growth trend analysis
+   - Month-over-month comparison
+
+2. **Weekly Performance Tracking**
+   - Column chart visualization
+   - Short-term performance metrics
+   - Weekly fluctuation analysis
+   - Quick response indicators
+---
+
 
 ## 🚀 Key Achievements & Business Impact
 - **Revenue Insights:** Analyzed $2.18M+ in YTD sales data to identify top-performing products driving 43.18% of total revenue
