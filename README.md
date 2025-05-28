@@ -3,6 +3,9 @@
 ## Executive Summary
 A comprehensive business intelligence solution that transforms Amazon sales data into actionable insights through interactive visualizations and key performance indicators. This project demonstrates expertise in data analytics, visualization, and business intelligence while providing valuable insights for strategic decision-making.
 
+## Dataset used
+- <a href="https://github.com/hprasadsakhare/Amazon-Sales-Analysis/blob/main/Amazon_Combined_Data.xlsx">Amazon Sales Data </a>
+
 ## Project Objectives
 - Monitor and analyze year-to-date (YTD) sales performance
 - Track quarterly sales trends and patterns
