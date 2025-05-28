@@ -8,6 +8,10 @@ A comprehensive business intelligence solution that transforms Amazon sales data
 ## Dataset used
 - <a href="https://github.com/hprasadsakhare/Amazon-Sales-Analysis/blob/main/Amazon_Combined_Data.xlsx">Amazon Sales Data </a>
 
+## Dashboard Interaction
+- <a https://github.com/hprasadsakhare/Amazon-Sales-Analysis/blob/main/Dashboard.jpeg">Dashboard</a>
+
+
 ## Project Objectives
 - Monitor and analyze year-to-date (YTD) sales performance
 - Track quarterly sales trends and patterns
