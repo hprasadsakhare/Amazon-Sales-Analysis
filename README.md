@@ -1,6 +1,8 @@
 # Amazon Sales Analytics Dashboard
 **End-to-End Business Intelligence Solution for E-commerce Performance Optimization**
 
+![Image](https://github.com/user-attachments/assets/083d115a-7511-41a3-ab8b-55b1b1277640)
+
 ## 🎯 Project Overview
 Developed a comprehensive business intelligence dashboard that transforms raw Amazon sales data into actionable insights, resulting in data-driven recommendations for strategic decision-making. This project demonstrates proficiency in the complete data analytics lifecycle from data cleaning to executive reporting.
 
